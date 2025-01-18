@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cvbpkauorynwu"
+path="res://.godot/imported/Ready for More - Ezra Lipp.mp3-382f8a6bf1d72d240c188d4bb323f311.mp3str"
+
+[deps]
+
+source_file="res://sounds/music/Ready for More - Ezra Lipp.mp3"
+dest_files=["res://.godot/imported/Ready for More - Ezra Lipp.mp3-382f8a6bf1d72d240c188d4bb323f311.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

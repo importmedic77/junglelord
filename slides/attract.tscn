@@ -1,0 +1,30 @@
+[gd_scene load_steps=2 format=3 uid="uid://bw3mgn7ur1api"]
+
+[ext_resource type="Script" path="res://addons/mpf-gmc/classes/mpf_slide.gd" id="1_w5ucf"]
+
+[node name="Attract" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+rotation = 0.00110677
+script = ExtResource("1_w5ucf")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 0
+offset_left = 3.0
+offset_top = 1.0
+offset_right = 1283.0
+offset_bottom = 1025.0
+rotation = -0.00224868
+color = Color(0.376471, 0.211765, 1, 1)
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 1.0
+offset_top = 57.0
+offset_right = 1284.0
+offset_bottom = 149.0
+rotation = -0.00307346
+theme_override_font_sizes/font_size = 80
+text = "Welcome to Jungle Lord"
+horizontal_alignment = 1
+vertical_alignment = 1
